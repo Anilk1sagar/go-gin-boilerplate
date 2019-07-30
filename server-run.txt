@@ -1,0 +1,2 @@
+## Build and Run
+export NODE_ENV=local && go build ./src/ && ./src.exe
